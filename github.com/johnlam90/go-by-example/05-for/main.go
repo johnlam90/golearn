@@ -1,5 +1,6 @@
 // Go by Example: For
 
+// https://gobyexample.com/for
 // for is Go's only looping construct. Here are some basci types of for loops
 
 package main
